@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>The Yard - Weekly Workouts</title>
+    <link rel="stylesheet" href="styles.css">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <header class="header">
+        <div class="container">
+            <div class="logo-container">
+                <img src="logo.png" alt="The Yard Logo" class="logo-image">
+            </div>
+            <p class="tagline">Weekly Workout Schedule</p>
+        </div>
+    </header>
+
+    <main class="main">
+        <div class="container">
+            <!-- Filter Tabs -->
+            <div class="filter-tabs">
+                <button class="tab-btn active" data-filter="all">All Workouts</button>
+                <button class="tab-btn" data-filter="crossfit">CrossFit</button>
+                <button class="tab-btn" data-filter="engine">Engine Class</button>
+            </div>
+
+            <!-- Workout Grid (rendered dynamically) -->
+            <div id="workoutGrid" class="workout-grid"></div>
+        </div>
+    </main>
+
+
+
+    <script src="script.js"></script>
+</body>
+</html>

@@ -1,0 +1,230 @@
+{
+  "crossfit": [
+    {
+      "title": "CrossFit — Mon 18 Aug",
+      "date": "2025-08-18",
+      "type": "crossfit",
+      "warmup": [
+        "2 sets:",
+        "200-m run",
+        "10 box step ups",
+        "2 sets:",
+        ":30 back racked torso rotations",
+        "1:00 jefferson curls",
+        ":30 barbell good mornings"
+      ],
+      "strength": [
+        "Strength (Week 3)",
+        "Hybrid deadlift — 5-3-3-1-1+",
+        "Top set should be 95%+"
+      ],
+      "wod": [
+        "6 rounds for time:",
+        "200-m run",
+        "12 box jump-overs (24/30 inch)",
+        "Time cap: 15:00"
+      ]
+    },
+    {
+      "title": "CrossFit — Tue 19 Aug",
+      "date": "2025-08-19",
+      "type": "crossfit",
+      "warmup": [
+        "3–5 sets:",
+        ":30 on//:30 off Rowerg",
+        "2 sets:",
+        "20 front rack openers",
+        "15 good mornings",
+        "10 front squats"
+      ],
+      "wod": [
+        "Every 2:00 for 10 rounds:",
+        "1 power clean",
+        "2 hang power cleans",
+        "8/10-cal row"
+      ]
+    },
+    {
+      "title": "CrossFit — Wed 20 Aug",
+      "date": "2025-08-20",
+      "type": "crossfit",
+      "warmup": [
+        "1 set:",
+        "2 lengths bear crawl",
+        "1 length inchworm",
+        "2 sets:",
+        "10 easy press ups",
+        "10 scapular pull ups with 1s pause"
+      ],
+      "strength": [
+        "Week 3 — 4 sets:",
+        "4× DB Z-press",
+        "4× strict pull ups/banded pull ups/weighted pull ups",
+        "RPE 8+ meaning that you finish a set feeling like you have less that two reps left in you."
+      ],
+      "wod": [
+        "40-30-20 reps for time:",
+        "Single-leg squats",
+        "Toes-to-bars",
+        "Time cap: 13:00"
+      ]
+    },
+    {
+      "title": "CrossFit — Thu 21 Aug",
+      "date": "2025-08-21",
+      "type": "crossfit",
+      "warmup": [
+        "Warm Up — 2 sets:",
+        "200-m run",
+        "5 inchworm walk outs",
+        "10 scapular pull ups (bar or rings)"
+      ],
+      "practice": [
+        "Pre-workout practice — EMOM 6:",
+        "Min. 1 | 1–2 rope climbs",
+        "Min. 2 | 1–3 wall walks",
+        "Min. 3 | 1–3 muscle-ups"
+      ],
+      "wod": [
+        "For time with a partner:",
+        "20 synchronized burpees",
+        "20 rope climbs",
+        "20 synchronized burpees",
+        "20 wall walks",
+        "20 synchronized burpees",
+        "20 muscle-ups",
+        "Share the rope climbs, wall walks, and muscle-ups as needed.",
+        "Time cap: 21:00"
+      ]
+    },
+    {
+      "title": "CrossFit — Fri 22 Aug",
+      "date": "2025-08-22",
+      "type": "crossfit",
+      "warmup": [
+        "Warm Up — 1 set:",
+        "2:00 row or run",
+        "15 PVC pass-throughs",
+        "15 PVC good mornings (wide stance)",
+        "5 elbow-to-instep/leg",
+        "15 counterbalance plate squats",
+        "2 sets:",
+        "5 shoulder presses",
+        "5 push presses",
+        "5 pause front squats",
+        "5 front squats",
+        "Use an empty barbell."
+      ],
+      "wod": [
+        "Andi — Complete The Following For Time:",
+        "100 Hang Power Snatches 30/20kg",
+        "100 Push Press 30/20kg",
+        "100 Sumo Deadlift High Pulls 30/20kg",
+        "100 Front Squats 30/20kg"
+      ]
+    },
+    {
+      "title": "CrossFit — Sat 23 Aug",
+      "date": "2025-08-23",
+      "type": "crossfit",
+      "warmup": [
+        "\"Rowling\" × 3 each",
+        "Penalty: Burpees"
+      ],
+      "wod": [
+        "AMRAP 30 with a partner:",
+        "1000-m row",
+        "50 box jumps (20/24)",
+        "500-m row",
+        "25 burpee box jumps (20/24)"
+      ]
+    }
+  ],
+  "engine": [
+    {
+      "title": "Engines — Mon 18 Aug",
+      "date": "2025-08-18",
+      "type": "engine",
+      "workout": [
+        "Ski, C2 Bike & Run (I)",
+        "Every 2:00 × 5 (40:00):",
+        "25 Cal Ski",
+        "200m Run",
+        "25 Cal C2 Bike",
+        "200m Run"
+      ]
+    },
+    {
+      "title": "Engines — Tue 19 Aug",
+      "date": "2025-08-19",
+      "type": "engine",
+      "workout": [
+        "Ski, Run & Sled (P)",
+        "AMRAP 40",
+        "100-80-60-40-20 Ski Cals",
+        "200m Farmers Carry & 200m Sled push between sets"
+      ]
+    },
+    {
+      "title": "Engines — Wed 20 Aug",
+      "date": "2025-08-20",
+      "type": "engine",
+      "workout": [
+        "Ski & C2 Bike (I)",
+        "6 Sets — 6:00 On // 1:00 Off:",
+        "2:00 @ Easy",
+        "2:00 @ Mod",
+        "1:00 @ Mod-Fast",
+        "1:00 @ Fast"
+      ]
+    },
+    {
+      "title": "Engines — Fri 22 Aug",
+      "date": "2025-08-22",
+      "type": "engine",
+      "workout": [
+        "Ski & Run (P)",
+        "AMRAP 40",
+        "1000m Ski",
+        "200m Vest Run",
+        "800m Ski",
+        "400m Vest Run",
+        "600m Ski",
+        "600m Vest Run",
+        "400m Ski",
+        "800m Vest Run",
+        "200m Ski",
+        "1000m Vest Run",
+        "Once completed go back to the start"
+      ]
+    },
+    {
+      "title": "Engines — Sat 23 Aug",
+      "date": "2025-08-23",
+      "type": "engine",
+      "workout": [
+        "C2 Bike & Ski",
+        "AMRAP 40",
+        "21 Cal Ski",
+        "1600m C2 Bike",
+        "28 Cal Ski",
+        "1600m C2 Bike",
+        "35 Cal Ski",
+        "1600m C2 Bike",
+        "Continue adding 7 cals to the ski each new round"
+      ]
+    },
+    {
+      "title": "Engines — Thu 21 Aug",
+      "date": "2025-08-21",
+      "type": "engine",
+      "workout": [
+        "C2 Bike & Ski (I)",
+        "Every 3:00 × 8",
+        "14/10 Cal Ski",
+        "14 Cal C2 Bike",
+        "Score: Slowest round"
+      ]
+    }
+  ]
+}
